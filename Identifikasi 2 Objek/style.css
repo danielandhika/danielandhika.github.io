@@ -1,0 +1,35 @@
+body {
+  font-family: Poppins, sans-serif;
+}
+
+.jumbotron {
+  padding: 10px 10px 10px 10px;
+  background-color: #110843;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.jumbotron p {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 10px 50px 10px 50px;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  background-color: #f6f8fd;
+}
+
+.card h3 {
+  color: #34364a;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
